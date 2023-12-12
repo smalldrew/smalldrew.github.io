@@ -1,2 +1,1 @@
-# [drewsmallz.github.io](https://drewsmallz.github.io/)
-beautiful frontend built with html.
+[beautiful frontend](https://drewsmallz.github.io) built with [html](https://en.wikipedia.org/wiki/HTML).
